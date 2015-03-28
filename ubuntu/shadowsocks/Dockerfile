@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:14.04.1
 MAINTAINER guojian <k@yooo.io>
 
 RUN apt-get update && \
